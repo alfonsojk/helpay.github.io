@@ -1,0 +1,151 @@
+
+/* empieza header de navbar */
+.custom-navbar{
+    width: 100%;
+
+}
+
+.contenedorlogo1{
+    display: flex;
+    align-items: center;
+}
+/* logo de helpay */
+.logo{
+    width: 20%;
+}
+
+.helpay{
+    font-weight:bolder;
+    font-size: 25px;
+    margin-bottom: 0;
+    color: rgb(44, 95, 134);
+}
+
+
+.container1{
+    /* border: solid 1px bluea     */
+height: 70vh;
+justify-items: center;
+justify-content: space-around;
+}
+
+/* carousel principal */
+.carouselpapa{
+        /* border: solid 1px bluea     */
+    height: 100vh;
+    justify-items: center;
+    justify-content: space-around;
+}
+
+.imagencarousel{
+    height: 87vh !important;
+}
+.carousel-inner{
+    height: 100vh;
+}
+.tres{
+    width: 100%;
+}
+
+    /* titulo de las cards */
+.titulocards{
+display: flex;
+justify-content:center;
+}
+    
+
+.dos{
+    width: 100%;
+
+}
+
+.uno{
+    width: 100%;
+}
+
+.imagen1{
+    display:flex;
+    align-items: center;
+    
+}
+
+.imagen2{
+    display:flex;
+    align-items: center;
+    
+}
+
+.imagen3{
+    display:flex;
+    align-items: center;
+    
+    height: 100%;
+}
+.mano1{
+    height: 100%
+}
+
+
+.mano2{
+    height: 100%
+}
+
+.mano3{
+    height: 100%
+}
+
+texto1{
+    text-align:justify;
+
+}
+.texto2{
+    text-align:justify;
+
+}
+
+.texto3{
+    text-align:justify;
+
+}
+
+
+.bd-example{
+    height: 20%;
+    
+   
+}
+
+/* imagenes carousel */
+.papaimg{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    
+}
+.container1{
+    display: flex;
+    align-items: center;
+}
+
+.imagencarousel{
+    width: 100%;
+    height: 90%;
+}
+
+
+/* empieza footer */
+
+footer{
+    border-top: grey 1px solid;
+}
+
+.contenedor-footer{
+    /* border: solid 1px blue;  */
+    width: 33%;
+}
+
+.custom-carousel-caption{
+    /* border: solid 1px red;k */
+    position:absolute;
+    top: 70vh;
+}
